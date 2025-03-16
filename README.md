@@ -6,3 +6,5 @@
  - 使用人工标注数据集微调bert-base-chinese实现中文地址要素解析。
 3. [nlp]03-微调RoBERTa模型实现中医问题答案抽取
  - 使用roberta-base-chinese-extractive-qa模型微调中医问题语料，实现答案抽取。
+4. [nlp]04-使用BERT模型与pipeline实现快速股民评论情感分析
+ - 使用BERT模型的pipeline快速实现股民评论的情感分类。
