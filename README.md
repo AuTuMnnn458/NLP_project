@@ -8,3 +8,5 @@
  - 使用roberta-base-chinese-extractive-qa模型微调中医问题语料，实现答案抽取。
 4. [nlp]04-使用BERT模型与pipeline实现快速股民评论情感分析
  - 使用BERT模型的pipeline快速实现股民评论的情感分类。
+5. 05-使用BiLSTM实现新冠疫情期间网民情绪识别
+ - 构建一个双向LSTM模型，实现新冠疫情期间网民评论的情绪识别。
